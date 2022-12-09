@@ -8,6 +8,9 @@ git clone https://github.com/Dev-Leonardo-Wolff/PizzariaPHP
 
 + dê import no banco de dados mysql
 
+### login admin
+admin@gmail.com
+12345678
 ## algumas prints do projeto
 ### Home
 ![image](https://user-images.githubusercontent.com/120134614/206717215-b7fabcba-a6e6-4f43-aeb3-7a39be8e1e1c.png)
